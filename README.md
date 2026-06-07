@@ -189,12 +189,28 @@ This project was developed as part of coursework at **ENSI (École Nationale des
 
 ## 👥 Team
 
-Developed by a team of 3 ENSI students.
+### 🏗️ Original Build — Academic Version (2025–2026)
+Built by a team of 3 ENSI students as part of coursework, for a real tournament.
+
+**Syrine Borchani**
+- GitHub: [@SyrineBorchani](https://github.com/SyrineBorchani)
 
 **Mohamed Mokhtar Khaled**
 - GitHub: [@mokhtar-khaled](https://github.com/mokhtar-khaled)
 - LinkedIn: [mohamed-mokhtar-khaled](https://linkedin.com/in/mohamed-mokhtar-khaled)
 
+**Lamiss Dachraoui**
+- GitHub: [@lamissd](https://github.com/lamissd)
+
+---
+
+### 🚀 Ongoing Upgrade — v2.0 (2026→)
+All new features, tools, and architecture upgrades (Node.js, React, AI assistant,
+deployment) are being developed independently by:
+
+**Mohamed Mokhtar Khaled**
+- GitHub: [@mokhtar-khaled](https://github.com/mokhtar-khaled)
+- LinkedIn: [mohamed-mokhtar-khaled](https://linkedin.com/in/mohamed-mokhtar-khaled)
 ---
 
 ## 📄 License
